@@ -1,6 +1,6 @@
 - 👋 Hi, I’m thePersik
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Lua for Roblox
+- 🌱 I’m currently learning... learning nothing?
 
 <!---
 justPersik/justPersik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
